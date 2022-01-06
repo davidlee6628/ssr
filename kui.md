@@ -21,3 +21,8 @@ ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6MjVybXA3Q1E@211.99.96.20:17852/?plugin=obfs
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6MjVybXA3Q1E@211.99.96.36:17852/?plugin=obfs-local%3b%e5%8f%91%e5%b8%83%3dt.me%2fvpnhat%3bobfs%3dhttp%3bobfs-host%3dds.download.windowsupdate.com#%E5%BF%AB%E9%80%9F_CN_%E4%B8%AD%E5%9B%BD_21
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6MjVybXA3Q1E@211.99.96.26:17852/?plugin=obfs-local%3b%e5%8f%91%e5%b8%83%3dt.me%2fvpnhat%3bobfs%3dhttp%3bobfs-host%3dds.download.windowsupdate.com#%E5%BF%AB%E9%80%9F_CN_%E4%B8%AD%E5%9B%BD_22
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6MjVybXA3Q1E@211.99.96.13:17852/?plugin=obfs-local%3b%e5%8f%91%e5%b8%83%3dt.me%2fvpnhat%3bobfs%3dhttp%3bobfs-host%3dds.download.windowsupdate.com#%E5%BF%AB%E9%80%9F_CN_%E4%B8%AD%E5%9B%BD_23
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.99.62.207:5000#_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.99.62.207:8119#_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.91.102.86:5001#_US_%e7%be%8e%e5%9b%bd
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.91.102.86:9102#_US_%e7%be%8e%e5%9b%bd
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.91.102.86:5600#_US_%e7%be%8e%e5%9b%bd
