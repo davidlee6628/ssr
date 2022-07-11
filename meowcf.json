@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://pan.tigerroot.cn/down.php/85348d55ae2ce62b90b3e188c2f04911.jar",
+"spider":"https://github.com/davidlee6628/ssr/blob/main/custom_spider.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
