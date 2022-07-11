@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://github.com/davidlee6628/ssr/blob/main/custom_spider.jar",
+"spider":"https://raw.githubusercontent.com/davidlee6628/ssr/main/custom_spider.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
