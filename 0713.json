@@ -263,10 +263,10 @@
 {"key":"胖猫影视","name":"胖猫影视","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩","type":1,"api":"https://malimali3.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫"]},
 {"key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xpath_hsck","name":"$🔞黄金仓库(XP)","type":3,"api":"csp_Legado","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/hsck.json"},
-{"key":"csp_xpath_modou","name":"$🔞麻豆(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/modou.json"},
-{"key":"csp_xpath_banana","name":"$🔞新香蕉(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/xxbanana.json"},
-{"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"csp_xpath_hsck","name":"$🔞黄金仓库(XP)","type":3,"api":"csp_Legado","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/hsck.json"},
+//{"key":"csp_xpath_modou","name":"$🔞麻豆(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/modou.json"},
+//{"key":"csp_xpath_banana","name":"$🔞新香蕉(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/xxbanana.json"},
+//{"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
  ],
   "lives": [
