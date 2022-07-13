@@ -16,7 +16,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvbGVleHViZW4vbWFzdGVyL21haW4vdHh0L3R2ODgudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
             
           ]
         }
