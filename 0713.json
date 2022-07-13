@@ -18,8 +18,8 @@
     //{"key":"csp_Aidi","name":"爱迪-🦎🐛","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":0,"filterable":1},
     //{"key":"csp_Enlienli","name":"嗯哩嗯哩🐞","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
     {"key":"csp_Auete","name":"Auete🐞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
-    {"key":"csp_Cokemv","name":"Cokemv🐞","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
-    {"key":"csp_Ysgc","name":"影视工厂🐞","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":0,"filterable":1},
+    //{"key":"csp_Cokemv","name":"Cokemv🐞","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
+    //{"key":"csp_Ysgc","name":"影视工厂🐞","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":0,"filterable":1},
 //{"key":"csp_N0ys","name":"90影视🐞","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nekk","name":"9E看看🐞","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫🐞)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
@@ -34,7 +34,7 @@
 //{"key":"csp_xpath_hsck","name":"$🔞黄金仓库(XP)","type":3,"api":"csp_Legado","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/hsck.json"},
 //{"key":"csp_xpath_modou","name":"$🔞麻豆(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/modou.json"},
 //{"key":"csp_xpath_banana","name":"$🔞新香蕉(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/xxbanana.json"},
-{"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
  ],
   "lives": [
