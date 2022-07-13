@@ -2,12 +2,7 @@
   "sites": [
     {"key": "csp_QQ","name": "腾讯视频🐞","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "会员采集","name": "会员采集","type": 1,"api": "http://caiji.nxflv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
-    //{"key":"csp_Aidi","name":"爱迪-🦎🐛","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":0,"filterable":1},
-    //{"key":"csp_Enlienli","name":"嗯哩嗯哩🐞","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
     {"key":"csp_Auete","name":"Auete🐞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
-    {"key":"csp_Cokemv","name":"Cokemv🐞","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
-    {"key":"csp_Ysgc","name":"影视工厂🐞","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":0,"filterable":1},
-//{"key":"csp_N0ys","name":"90影视🐞","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nekk","name":"9E看看🐞","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫🐞)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺视频(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
