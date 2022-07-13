@@ -15,7 +15,7 @@
 //{"key":"csp_xpath_banana","name":"$🔞新香蕉(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/leexuben/master/main/json/xxbanana.json"},
 //{"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 
- ],
+ ],}
   "lives": [
     {
       "group": "redirect",
