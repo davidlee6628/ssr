@@ -1,8 +1,8 @@
 {
   "sites": [
-    {"key": "csp_QQ","name": "腾讯视频🐞","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "会员采集","name": "会员采集","type": 1,"api": "http://caiji.nxflv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Auete","name":"Auete🐞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
+{"key": "csp_QQ","name": "腾讯视频🐞","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "会员采集","name": "会员采集","type": 1,"api": "http://caiji.nxflv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Auete","name":"Auete🐞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Nekk","name":"9E看看🐞","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫🐞)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺视频(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -20,7 +20,8 @@
 {"key":"csp_biubiu_斗鱼直播","name":"🐟斗鱼直播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/斗鱼直播(xb).json"},
 {"key":"php_斗鱼直播","name":"🐟斗鱼直播(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"php_开麦K歌搜人","name":"开麦K歌搜人(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"php_开麦K歌搜歌","name":"开麦K歌搜歌(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quicksearch":1,"filterable":0}{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+{"key":"php_开麦K歌搜歌","name":"开麦K歌搜歌(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quicksearch":1,"filterable":0},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
  ],
   "lives": [
     {
