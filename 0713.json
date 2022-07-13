@@ -27,7 +27,7 @@
     }
   ],
 
-  "spider": "https://raw.fastgit.org/leexuben/master/main/jar/custom_spider202205044.jar",
+  "spider": "https://raw.githubusercontent.com/davidlee6628/ssr/main/custom_spider202205044.jar",
 	"parses": [
 {"name":"主解析","type":1,"url":"https://za.kuanjv.com/?url="},
 {"name":"快云影音","type":1,"url":"https://jhjx.kuanjv.com/newky/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"]}},
