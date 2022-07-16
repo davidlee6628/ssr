@@ -2,7 +2,7 @@
     "sites": [     
         {
             "key": "csp_77",
-            "name": "七七",
+            "name": "酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -83,7 +83,7 @@
         },
         {
             "key":"kuaikan",
-            "name": "kuaikan",
+            "name": "看看",
             "type":3,
             "api":"csp_Kuaikan",
             "searchable":1,
@@ -92,7 +92,7 @@
         },       
          {
             "key":"mjxq",
-            "name": "mjxq",
+            "name": "美剧星球",
             "type":3,
             "api":"csp_Mjxq",
             "searchable":1,
@@ -119,7 +119,7 @@
         },
 {
     "key": "csp_BBB"        ,
-    "name":"🐞bilibili",
+    "name":"哔哩",
     "type": 3,
     "api": "csp_BBB",
     "searchable": 1,
@@ -162,167 +162,7 @@
     "quickSearch": 1,
     "filterable": 1
 },
-        
-        {
-            "key": "美剧虫",
-            "name": "美剧虫(v1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
-             "key":"300看世界",
-             "name": "300看世界(v2)",
-             "type":3,
-             "api":"csp_AppYsV2",
-             "searchable":1,
-             "quickSearch":1,
-             "filterable":1,
-             "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_ysgc",
-            "name": "影视工厂(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/ysgc.json"
-        },      
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
-        },
-        {
-            "key": "csp_biubiu_555电影",
-            "name": "555电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/555b.json"
-        },
-        {
-            "key":"csp_biubiu_libv",
-            "name": "LIBVIO(XB)",
-            "type":3,
-            "api": "csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/libv.json"
-        },
-        {
-            "key": "csp_biubiu_在线之家",
-            "name": "在线之家(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
-        },
-        {
-            "key":"csp_biubiu_瓜皮TV",
-            "name": "瓜皮TV(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
-        },
-        {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长资源(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/czzy.json"
-        },
-        {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
-        },
-        {
-            "key":"csp_xpath_ddg",
-            "name": "达达龟(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
-        },
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libv.json"
-        },
-        {
-            "key": "剧白白",
-            "name": "剧白白(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/jbb.json"
-        },   
-        {
-            "key":"csp_xpath_dm84",
-            "name": "动漫巴士(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/dm84.json"
-        },    
+  
         {
             "key": "Gitcafe",
             "name": "小纸条",
