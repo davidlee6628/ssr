@@ -99,7 +99,7 @@
             "quickSearch":1,
             "filterable":1
         },      
-        //{
+        {
             "key":"FindZY",
          "name":"找资源",
          "type":3,
