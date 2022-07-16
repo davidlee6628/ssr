@@ -11,7 +11,7 @@
         },      
         {
             "key":"csp_CZSPP",
-            "name":"厂长",
+            "name":"厂长资源",
             "type":3,
             "api":"csp_CZSPP",
             "searchable":1,
@@ -20,7 +20,7 @@
         },
         {
             "key":"csp_Bttoo",
-            "name": "两个变态",
+            "name": "两个BT",
             "type":3,
             "api":"csp_Bttoo",
             "searchable":1,
@@ -63,7 +63,7 @@
             "quickSearch":1,
             "filterable":1
         },
-        {
+       // {
             "key": "csp_IKan",
             "name": "爱看",
             "type": 3,
@@ -99,7 +99,7 @@
             "quickSearch":1,
             "filterable":1
         },      
-        {
+        //{
             "key":"FindZY",
          "name":"找资源",
          "type":3,
