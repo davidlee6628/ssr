@@ -99,16 +99,8 @@
             "quickSearch":1,
             "filterable":1
         },      
-           {
-            "key":"gitcafe",
-            "name": "GitCafe",
-            "type":3,
-            "api":"csp_GitCafe",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },      
-        {"key":"FindZY",
+        {
+            "key":"FindZY",
          "name":"找资源",
          "type":3,
          "api":"csp_FindZY",
@@ -117,7 +109,7 @@
          "filterable":1,
          "ext":""
         },
-{
+        {
     "key": "csp_BBB"        ,
     "name":"哔哩",
     "type": 3,
@@ -125,18 +117,18 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-},
-{
+   },
+   {
     "key": "csp_Blixs"      ,
     "name":"相声小品",
     "type": 3,"api": 
     "csp_Blixs",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1}
-        ,
-{
-    "key": "csp_Bliyc"      ,
+    "filterable": 1
+    },
+    {
+    "key": "csp_Bliyc",
     "name":"演唱会",
     "type": 3,
     "api": "csp_Bliyc",
@@ -145,7 +137,7 @@
     "filterable": 1
 },
 {
-    "key": "csp_Blidw"      ,
+    "key": "csp_Blidw",
     "name":"动物世界",
     "type": 3,
     "api": "csp_Blidw",
@@ -161,8 +153,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-},
-  
+    },
         {
             "key": "Gitcafe",
             "name": "小纸条",
