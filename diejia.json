@@ -175,7 +175,7 @@
         },
         {
             "key": "AliPS",
-            "name": "盘搜",
+            "name": "阿里盘搜",
             "type": 3,
             "api": "csp_AliPS",
             "searchable": 1,
