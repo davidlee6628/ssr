@@ -173,7 +173,7 @@
              "quickSearch":1,
              "filterable":1
         },
-        {
+        //{
             "key": "AliPS",
             "name": "阿里盘搜",
             "type": 3,
