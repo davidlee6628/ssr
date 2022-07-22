@@ -809,7 +809,7 @@
       ]
     }
   ],
-  "spider": "https://gitea.com/wangxilin/1/raw/branch/main/6.jar"
+ 
   "parses": [
     {
       "name": "解析聚合",
@@ -1562,5 +1562,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": ""
+  "spider": "https://gitea.com/wangxilin/1/raw/branch/main/6.jar"
 }
