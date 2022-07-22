@@ -6,8 +6,8 @@
 {"key":"csp_Jumi","name":"剧迷(爬虫🐞)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺视频(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果视频(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_HSCK","name":"HSCK视频","type":3,"api":"csp_Hsck1","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"csp_LGADO","name":"LGADO视频(SP)","type":3,"api":"csp_LEGADO","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_HSCK","name":"HSCK视频","type":3,"api":"csp_Hsck1","searchable":1,"quickSearch":0,"filterable":1},
+//{"key":"csp_LGADO","name":"LGADO视频(SP)","type":3,"api":"csp_LEGADO","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
  ],
   "lives": [
@@ -27,9 +27,9 @@
 
   "spider": "https://raw.githubusercontent.com/davidlee6628/ssr/main/Mix.jar",
 	"parses": [
-{"name":"主解析","type":1,"url":"https://za.kuanjv.com/?url="},
-{"name":"自动","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-{"name":"自动1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+//{"name":"主解析","type":1,"url":"https://za.kuanjv.com/?url="},
+//{"name":"自动","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+//{"name":"自动1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
 {"name":"快云影音","type":1,"url":"https://jhjx.kuanjv.com/newky/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"]}},
 {"name":"秒播3","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
 {"name":"jh","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
