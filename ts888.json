@@ -24,6 +24,18 @@
 			"filterable": 1
 		},
 		{
+			"key": "Lezhu_spider",
+			"name": "🐷乐猪影视",
+			"api": "csp_Lezhu",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": ""
+		},
+
+
+		{
 			"key": "360",
 			"name": "360",
 			"type": 3,
@@ -186,7 +198,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "clan://tvbox/ts/B.json"
+			"ext": "http://pti162su22.youhui112.com/Xbiubiu/B站.json"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -197,6 +209,16 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		{
+			"key": "csp_Bttoo",
+			"name": "🤼两个BT",
+			"type": 3,
+			"api": "csp_Bttoo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+
 		{
 			"key": "AliPS",
 			"name": "盘搜",
