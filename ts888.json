@@ -180,6 +180,15 @@
 			"ext": "clan://tvbox/ts/B.json"
 		},
 		{
+			"key": "csp_Yj1211",
+			"name": "斗鱼",
+			"type": 3,
+			"api": "csp_Yj1211",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "AliPS",
 			"name": "盘搜",
 			"type": 3,
@@ -313,7 +322,7 @@
 			"filterable": 1,
 			"ext": "https://meijuchong.com/api.php/v1.vod"
 		},
-		  {
+		{
 			"key": "csp_appysv2_月儿影视",
 			"name": "月儿影视(萝卜)",
 			"type": 3,
