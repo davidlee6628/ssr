@@ -6,7 +6,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc2hhZG93Y2hpdS9UVkJveC9yYXcvYnJhbmNoL21haW4vdHYvc2NsaXZlLnR4dA=="]}]}],
 
 "sites":[
- 
+{"key":"csp_Dy555","name":"🎾Dy555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_auete","name":"auete(SP)","type":3,"api":"csp_auete","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_bili","name":"bili(SP)","type":3,"api":"csp_bili","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"⛅Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
