@@ -273,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"
+            "jar": "https://raw.githubusercontent.com/davidlee6628/ssr/main/gy.jar"
         },
         {
             "key": "爱奇艺",
@@ -283,7 +283,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"
+            "jar": "https://raw.githubusercontent.com/davidlee6628/ssr/main/gy.jar"
         },
         {
             "key": "csp_MGTV",
@@ -293,7 +293,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"
+            "jar": "https://raw.githubusercontent.com/davidlee6628/ssr/main/gy.jar"
         },
         {
             "key": "优酷(官源)",
@@ -328,7 +328,7 @@
                 "其他片",
                 "其他剧"
             ],
-            "jar": "https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"
+            "jar": "https://raw.githubusercontent.com/davidlee6628/ssr/main/gy.jar"
         },
         {
             "key": "搜狐(官源)",
@@ -363,7 +363,7 @@
                 "其他片",
                 "其他剧"
             ],
-            "jar": "https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"
+            "jar": "https://raw.githubusercontent.com/davidlee6628/ssr/main/gy.jar"
         },
         {
             "key": "PPTV(官源)",
@@ -398,7 +398,7 @@
                 "其他片",
                 "其他剧"
             ],
-            "jar": "https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"
+            "jar": "https://raw.githubusercontent.com/davidlee6628/ssr/main/gy.jar"
         }
     ],
     "parses": [
