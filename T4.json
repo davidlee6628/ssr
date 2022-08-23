@@ -14,17 +14,7 @@
 	}],
 
 
-	"sites": [
-      {
-     "key":"t4test",
-     "name":"T4测试",
-     "type":4,
-     "api":"https://t4.secan.icu/vod",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0
-    }
-    {
+	"sites": [{
 			"key": "csp_Dy555",
 			"name": "🎾Dy555(SP)",
 			"type": 3,
@@ -33,6 +23,16 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		{
+			"key": "t4test",
+			"name": "T4测试",
+			"type": 4,
+			"api": "https://t4.secan.icu/vod",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		}
+
 		{
 			"key": "Lezhu_spider",
 			"name": "🐷乐猪影视",
