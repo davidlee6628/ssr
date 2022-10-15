@@ -1,5 +1,6 @@
 {
-  "spider": "http://home.jundie.top:81/jar/top97.jar",
+ # "spider": "http://home.jundie.top:81/jar/top97.jar",
+ "spider":" https://raw.githubusercontent.com/davidlee6628/ssr/main/custom.jar",
   "lives": [
     {
       "group": "redirect",
