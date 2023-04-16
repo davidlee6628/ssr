@@ -21,7 +21,7 @@ profile:
 
 proxy-providers:
   LIAN:
-    type: http
+    type: https
     # 这里填proxy-provider-converter转换得到的链接
     url: https://sub.pmsub.me/clash.yaml
     interval: 3600
