@@ -15,21 +15,6 @@
 			"ext": "http://cms.maoyingshi.cc/api.php/app/",
 			"jar": "https://qu.ax/zWdG.js"
 		},
-		{
-			"key": "腐宅",
-			"name": "腐宅",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"changeable": 0,
-			"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-		},
 
 		{
 			"key": "py_cctv_集合",
@@ -75,26 +60,7 @@
 			"changeable": 1,
 			"ext": "https://qu.ax/USvO.txt"
 		},
-		{
-			"key": "❤𝐹𝑜𝓃𝑔𝑀𝒾",
-			"name": "❤𝐹𝑜𝓃𝑔𝑀𝒾",
-			"type": 3,
-			"api": "https://qu.ax/ntMk.js",
-			"searchable": 2,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://qu.ax/GiK.json"
-		},
-		{
-			"key": "MV",
-			"name": "❤十六万MTV路飞js",
-			"type": 3,
-			"style": {
-				"type": "oval"
-			},
-			"api": "https://qu.ax/bzoe.js",
-			"ext": "https://qu.ax/gxhY.txt"
-		},
+
 		{
 			"key": "lf_js_p2p",
 			"name": "路飞_磁力搜索 ",
@@ -660,245 +626,7 @@
 			"filterable": 1,
 			"ext": "0bec59716cbd492796ea1d5b14f2ca67"
 		},
-		{
-			"key": "csp_XYQHikerAL_阿里云盘网",
-			"name": "❤☁️阿里云盘",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://qu.ax/cvU.json"
-		},
-		{
-			"key": "csp_WoGG",
-			"name": "❤🤡玩偶哥哥┃4K",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "0bec59716cbd492796ea1d5b14f2ca67",
-			"jar": "https://qu.ax/rski.js"
-		},
-		{
-			"key": "csp_XYQHikerAL_玩偶哥哥",
-			"name": "❤🤖玩偶弟弟4k",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://qu.ax/VdgO.json"
-		},
-		{
-			"key": "csp_XYQHikerlg4k",
-			"name": "❤💋玩偶姐姐4k",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://qu.ax/wNxy.json"
-		},
-		{
-			"key": "csp_XYQHiker4klg",
-			"name": "❤💅🏻玩偶妹妹4k",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://qu.ax/TyM.json"
-		},
-		{
-			"key": "csp_yt",
-			"name": "❤🥳玩偶表姐┃4K",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_AppYsV2",
-			"m3u8ads": "hd.youyhn.com",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.lfytv.cn/api.php/app/"
-		},
-		{
-			"key": "csp_饭团",
-			"name": "❤🦄玩偶表妹┃4K",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://qu.ax/CwJC.json"
-		},
-		{
-			"key": "雲搜",
-			"name": "❤雲搜",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_UpYun",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-		},
-		{
-			"key": "盤搜",
-			"name": "❤盤搜",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_PanSou",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-		},
-		{
-			"key": "盤搜索",
-			"name": "❤盤搜索",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_PanSearch",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-		},
-		{
-			"key": "找資源",
-			"name": "❤找資源",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_Zhaozy",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "影視天下第一$$$test2$$$test2",
-			"jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
-		},
-		{
-			"key": "csp_阿里七夜",
-			"name": "阿里 ┃ 七夜[4K]",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_Dovx",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-		},
-		{
-			"key": "csp_TuGou",
-			"name": "阿里 ┃ 土狗[4K]",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"api": "csp_TuGou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-		},
-		{
-			"key": "PanSearch",
-			"name": "阿里 ┃ PanS[4K]",
-			"type": 3,
-			"api": "csp_PanSearch",
-			"searchable": 1,
-			"quickSearch": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"filterable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-		},
-		{
-			"key": "Upyunso",
-			"name": "阿里 ┃ 云搜[4K]",
-			"type": 3,
-			"api": "csp_UpYun",
-			"searchable": 1,
-			"quickSearch": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"filterable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-		},
-		{
-			"key": "Alips",
-			"name": "阿里 ┃ 盘搜[4K]",
-			"type": 3,
-			"api": "csp_PanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"filterable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-		},
-		{
-			"key": "Zhaozy",
-			"name": "阿里 ┃ 找片[4K]",
-			"type": 3,
-			"api": "csp_Zhaozy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			},
-			"filterable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$自己去注册$$$qq112233"
-		},
+
 		{
 			"key": "push_agent",
 			"name": "❤推送 | lf_push",
@@ -1014,27 +742,7 @@
 			]
 		}
 	],
-	"lives": [{
-			"name": "半路捡来的",
-			"type": 0,
-			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "范明",
-			"type": 0,
-			"url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "道长",
-			"type": 0,
-			"url": "http://111.67.196.181/zhibo.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
+	"lives": [
 		{
 			"name": "肥猫",
 			"type": 0,
@@ -1057,44 +765,9 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "四千加",
-			"type": 0,
-			"url": "https://qu.ax/kBip.m3u",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "AK47",
-			"type": 0,
-			"url": "https://qu.ax/HtMB.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "蜂蜜18+",
-			"type": 0,
-			"url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
 			"name": "月光宝盒",
 			"type": 0,
 			"url": "https://iptvindex.com/tv.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "罗汉果",
-			"type": 0,
-			"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "全球总列表",
-			"type": 0,
-			"url": "https://iptv-org.github.io/iptv/index.m3u",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
@@ -1122,20 +795,6 @@
 				"referer": "https://github.com/"
 			},
 			"url": "https://qu.ax/vszk.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "武哥直播",
-			"type": 0,
-			"url": "https://qu.ax/HjLu.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "武哥成人点播",
-			"type": 0,
-			"url": "https://qu.ax/CgvU.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		}
